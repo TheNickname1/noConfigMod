@@ -1,5 +1,5 @@
 displayName: "Не сохранять настройки"
 name: noconfigmod
-description: "Bruh..."
+description: "Если игра запущена с данным модом, то после загрузки контента параметр \"saveConfigs\"у каждого блока будет установлен как \"false\""
 minGameVersion: 140.2
 author: "Ё или Nickname"
