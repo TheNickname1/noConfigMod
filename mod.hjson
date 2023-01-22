@@ -1,0 +1,5 @@
+displayName: "Не сохранять настройки"
+name: noconfigmod
+description: "Bruh..."
+minGameVersion: 140.2
+author: "Ё или Nickname"
